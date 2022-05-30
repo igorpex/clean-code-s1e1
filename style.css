@@ -56,7 +56,7 @@ button {
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-button: hover {
+button:hover {
   color: #3a3A3a;
 }
 /* Heading */
@@ -82,7 +82,7 @@ input[type="text"] {
   font-family: Lato, sans-serif;
   color: #888;
 }
-input[type="text"]: focus {
+input[type="text"]:focus {
   color: #333;
 }
 
@@ -126,7 +126,7 @@ button.delete img {
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-button.delete img: hover {
+button.delete img:hover {
   transform: rotateZ(0);
 }
 
